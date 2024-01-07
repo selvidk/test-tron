@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fenguoz/tron-php": "^0.1.0"
+    }
+}
